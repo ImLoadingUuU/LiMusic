@@ -38,4 +38,4 @@ Play.TextColor3 = Color3.fromRGB(255, 255, 255)
 Play.TextScaled = true
 Play.TextSize = 14.000
 Play.TextWrapped = true
--- Frontend | Cleint
+-- Frontend | Client
